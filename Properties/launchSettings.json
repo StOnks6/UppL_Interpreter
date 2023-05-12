@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "UppL": {
-      "commandName": "Project",
-      "commandLineArgs": "chcp 1251 & cls\r\n"
-    }
-  }
-}
